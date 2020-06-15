@@ -23,6 +23,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "A React-Native expo app that uses redux for state handling and redux-thunk for synchronization. Users can search and sort contacts along with pagination.",
+    "githubUrl": "https://github.com/israr-shaikh/search-sort-redux-expo"
   }
 }
